@@ -4,7 +4,7 @@ A wireless version of the narfpad.
 
 ![narfbloq](pictures/narfbloq.jpg)
 
-![battery](pictures/batery.jpg)
+![battery](pictures/battery.jpg)
 
 ## BOM
 
